@@ -17,7 +17,4 @@ This project is a **hands-on example** of dynamic web elements, animations, and 
 - 🎨 **Clean and stylish design** with CSS  
 - 💡 **Simple and easy to use**  
 
----
-
-## 📂 Project Structure
 
