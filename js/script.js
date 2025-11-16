@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     $("#toggleBoxes").click(function(){
-        $(".box").toggle(1000); // toggle با مدت زمان ۱ ثانیه
+        $(".box").toggle(1000);
     });
 
     $("#changeText").click(function(){
