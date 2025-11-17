@@ -1,5 +1,5 @@
 # 🎨 Interactive jQuery Boxes – Fun & Engaging Web Example
-
+ 
 Welcome to this **interactive jQuery project**!  
 This project is a **hands-on example** of dynamic web elements, animations, and user interactions – perfect for **learning, teaching, or university presentations**.
 
